@@ -1,1 +1,1 @@
-# exoJavaPolymorphisme
+# Exercice Java sur le polymorphisme
